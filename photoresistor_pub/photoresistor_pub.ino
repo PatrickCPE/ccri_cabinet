@@ -1,7 +1,7 @@
 /*
    CCRI Pick and Place Cabinet Object Detection
 
-   Utilizes basic photoresistors to indicate whether or not an object is covering one of the fiducial markers.
+   Utilizes photoresistors to indicate whether or not an object is covering one of the fiducial markers.
    External lighting may need to be added to cabinet to ensure proper operation (LED strips, etc.) Publishes 
    data over ROS Serial and data can be stored locally on the PC. Requires you to run the command:
 
